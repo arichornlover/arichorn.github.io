@@ -8,7 +8,7 @@
       "contact": {
           "web": "https://github.com/arichornlover/uYouEnhanced"
       },
-      "downloadURL": "https://tinyurl.com/4ms5b2pz",
+      "downloadURL": "https://tinyurl.com/msjxdme8",
       "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
       "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.\n \n Contributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, and many others.",
       "name": "uYouEnhanced",
@@ -94,9 +94,9 @@
         },
       "subtitle": "The best tweak for the YouTube app just got even better",
       "tintColor": "e81e8a",
-      "version": "19.10.7",
-      "versionDate": "2024-03-22",
-      "versionDescription": "• Updated YouTube to 19.10.7\n • uYou is using 3.0.3\n • Fixed Adblock in uYou Settings\n • fixed iSponsorBlock crashing problem!"
+      "version": "19.14.2",
+      "versionDate": "2024-04-10",
+      "versionDescription": "• Updated YouTube to 19.14.2\n • uYou is using 3.0.3\n • Added New Tweak YouGroupSettings\n • Added App Icons Customization (not working yet)\n • Improved the + icon in the Navigation Bar\n • Added Hide Fullscreen Actions \n • Updated LowContrastMode to prompt and disable on unsupported versions\n • Updated Red Progress Bar Option for v19.10.7+\n • Updated YouTube Premium Logo Option for v18.35.4+\n • Updated App Version Spoofer\n • Updated Hide double tap to seek overlay\n • Updated Submodules"
     }
   ],
   "identifier": "com.uyouplusextra.source",
