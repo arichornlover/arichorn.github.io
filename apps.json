@@ -8,7 +8,7 @@
       "contact": {
           "web": "https://github.com/arichornlover/uYouEnhanced"
       },
-      "downloadURL": "https://tinyurl.com/ab35kayz",
+      "downloadURL": "https://tinyurl.com/3jpt2twt",
       "iconURL": "https://raw.githubusercontent.com/arichornlover/uYouEnhanced/1314354bff6ef07aca60d7b9a77bd91a5f985ab4/Localizations/uYouPlus.bundle/AppIcons/AppIcon4.png",
       "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.\n \n Contributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, bhackel, balackburn and many others.",
       "name": "uYouEnhanced",
@@ -20,7 +20,7 @@
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
       ],
-      "size": 127095027,
+      "size": 125035106,
       "appPermissions": {
         "entitlements": [
             {
@@ -94,9 +94,9 @@
         },
       "subtitle": "The best tweak for the YouTube app just got even better",
       "tintColor": "e81e8a",
-      "version": "19.16.3",
-      "versionDate": "2024-05-02",
-      "versionDescription": "• Updated YouTube to 19.16.3\n • uYou is still using 3.0.3\n • Added a ton of New Options: Disable pull-to-fullscreen gesture, Hide Video Title (in Fullscreen), Hide `Get Youtube Premium` Section, Hide Home Tab, uYou Adblock Workaround & Fake Premium\n • Revamped App Icons Customization UI (still not working yet)\n • Removed the + icon in the Navigation Bar, moved to uYouEnhanced settings.\n • Updated LowContrastMode that prompts and disables on either Incompatible or Discontinued App versions\n • Fixed crashing related to uYou (Tweak: uYouFix)\n • Removed YouTube Premium Logo Option (this was replaced)\n • Updated Hide Indicators option\n • Updated Submodules"
+      "version": "19.18.2",
+      "versionDate": "2024-05-08",
+      "versionDescription": "• Updated YouTube to 19.18.2\n • uYou is still using 3.0.3\n • New Option (by bhackel): Always use remaining time in the video player\n • Re-added 2 Options (by bhackel): Hide Previous And Next Button & Disable Double tap to skip chapter\n • Updated Options (by bhackel): LowContrastMode, Hide double tap to seek overlay & Fake Premium\n • Patch (by PoomSmart): fixed dislikes not working in Shorts (Tweak: Return-YouTube-Dislikes)\n • Updated Submodules"
     }
   ],
   "identifier": "com.uyouplusextra.source",
