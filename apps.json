@@ -96,7 +96,7 @@
       "tintColor": "e81e8a",
       "version": "19.21.2",
       "versionDate": "2024-05-28",
-      "versionDescription": "• Updated YouTube to v19.21.2\n • Update uYou to v3.0.4\n • uYouEnhanced Localization Support\n • Dropped iOS 14 Support (From: Google/YouTube v19.21.2 release)\n • New Options: Disable Animated YouTube Logo, Shorts Quality Picker, New Settings UI & Auto-Hide Home Bar - arichornlover & bhackel\n • Limited Options to iPhone-only: Enable Portrait Fullscreen & Hide Fullscreen Action Buttons - arichornlover & bhackel\n • Added a new button (uYouEnhanced Settings): Copy Settings\n • New Tweak: YouTimeStamp\n • Fixed AdBlock not working in Videos for AdBlock Workaround (Lite) - PoomSmart/YouTube-X\n • Updated Submodules"
+      "versionDescription": "• Updated YouTube to v19.21.2\n • uYou is using 3.0.4\n • uYouEnhanced Localization Support\n • Dropped iOS 14 Support (From: Google/YouTube v19.21.2 release)\n • New Options: Disable Animated YouTube Logo, Shorts Quality Picker, New Settings UI & Auto-Hide Home Bar - arichornlover & bhackel\n • Limited Options to iPhone-only: Enable Portrait Fullscreen & Hide Fullscreen Action Buttons - arichornlover & bhackel\n • Added a new button (uYouEnhanced Settings): Copy Settings\n • New Tweak: YouTimeStamp\n • Fixed AdBlock not working in Videos for AdBlock Workaround (Lite) - PoomSmart/YouTube-X\n • Updated Submodules"
     }
   ],
   "identifier": "com.uyouplusextra.source",
