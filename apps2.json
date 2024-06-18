@@ -18,6 +18,7 @@
          "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/8.png?raw=true"
        ],
        "size": 118141199,
+       "minOSVersion": "15.0",
        "subtitle": "Supercharged with a ton of tweaks for the YouTube app.",
        "tintColor": "0f0f0f",
        "version": "19.23.3",
