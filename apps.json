@@ -56,6 +56,9 @@
             },
             {
               "name": "com.apple.developer.networking.wifi-info"
+            },
+            {
+              "name": "com.apple.developer.siri"
             }
           ],
           "privacy": [
@@ -90,6 +93,10 @@
             {
               "name": "PhotoLibrary",
               "usageDescription": "This lets you upload media you've already created."
+            },
+            {
+              "name": "NSUserTrackingUsage-Description",
+              "usageDescription": "This app requires access to track user activity for personalized content."
             }
           ]
         },
