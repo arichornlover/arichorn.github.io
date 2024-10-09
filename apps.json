@@ -95,7 +95,7 @@
               "usageDescription": "This lets you upload media you've already created."
             },
             {
-              "name": "NSUserTrackingUsage-Description",
+              "name": "NSUserTrackingUsage",
               "usageDescription": "This app requires access to track user activity for personalized content."
             }
           ]
