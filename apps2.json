@@ -4,18 +4,19 @@
        "beta": false,
        "bundleIdentifier": "com.google.ios.youtube",
        "developerName": "LillieH1000, zachary7829 & arichornlover",
+       "category": "photo-video",
        "downloadURL": "https://tinyurl.com/262fbj2x",
        "iconURL": "https://raw.githubusercontent.com/arichornlover/YouTube-Reborn-v5/main/layout/Library/Application%20Support/YouTubeReborn.bundle/ytrebornbuttonblack.png",
        "localizedDescription": "YouTube Reborn is the best tweak when it comes to customization and video downloading towards the YouTube app.",
        "name": "YouTubeRebornPlus",
        "screenshotURLs": [
-         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/1.png?raw=true",
-         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/3.png?raw=true",
-         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/4.png?raw=true",
-         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/5.png?raw=true",
-         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/6.png?raw=true",
-         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/7.png?raw=true",
-         "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/screenshots/8.png?raw=true"
+         "https://raw.githubusercontent.com/YTLitePlus/YTLitePlusAltstore/main/screenshots/1.png?raw=true",
+         "https://raw.githubusercontent.com/YTLitePlus/YTLitePlusAltstore/main/screenshots/3.png?raw=true",
+         "https://raw.githubusercontent.com/YTLitePlus/YTLitePlusAltstore/main/screenshots/4.png?raw=true",
+         "https://raw.githubusercontent.com/YTLitePlus/YTLitePlusAltstore/main/screenshots/5.png?raw=true",
+         "https://raw.githubusercontent.com/YTLitePlus/YTLitePlusAltstore/main/screenshots/6.png?raw=true",
+         "https://raw.githubusercontent.com/YTLitePlus/YTLitePlusAltstore/main/screenshots/7.png?raw=true",
+         "https://raw.githubusercontent.com/YTLitePlus/YTLitePlusAltstore/main/screenshots/8.png?raw=true"
        ],
        "size": 118141199,
        "minOSVersion": "15.0",
@@ -55,6 +56,9 @@
             },
             {
               "name": "aps-environment"
+            },
+            {
+              "name": "com.apple.developer.siri"
             },
             {
               "name": "com.apple.developer.networking.wifi-info"
