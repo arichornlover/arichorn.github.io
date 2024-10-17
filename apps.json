@@ -97,7 +97,7 @@
             },
             {
               "name": "NSUserTrackingUsageDescription",
-              "usageDescription": "This app requires access to track user activity for personalized content."
+              "usageDescription": "A message that informs the user why an app is requesting permission to use data for tracking the user or the device."
             }
           ]
         },
