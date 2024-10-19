@@ -7,7 +7,7 @@
       "category": "photo-video",
       "META": { "repoName": "uYouEnhanced Source" },
       "contact": {
-        "web": "https://github.com/arichornlover/uYouEnhanced"
+          "web": "https://github.com/arichornlover/uYouEnhanced"
       },
       "downloadURL": "https://files.catbox.moe/c6rw78.ipa",
       "iconURL": "https://raw.githubusercontent.com/arichornlover/uYouEnhanced/1314354bff6ef07aca60d7b9a77bd91a5f985ab4/Localizations/uYouPlus.bundle/AppIcons/AppIcon4.png",
@@ -25,75 +25,96 @@
       "minOSVersion": "15.0",
       "appPermissions": {
         "entitlements": [
-          { "name": "com.apple.security.application-groups" },
-          { "name": "com.apple.developer.associated-domains" },
-          { "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection" },
-          { "name": "com.apple.developer.usernotifications.time-sensitive" },
-          { "name": "get-task-allow" },
-          { "name": "com.apple.developer.device-information.user-assigned-device-name" },
-          { "name": "com.apple.developer.group-session" },
-          { "name": "keychain-access-groups" },
-          { "name": "com.apple.developer.networking.multicast" },
-          { "name": "aps-environment" },
-          { "name": "com.apple.developer.siri" },
-          { "name": "com.apple.developer.networking.wifi-info" }
-        ],
-        "privacy": [
-          {
-            "name": "AppleMusic",
-            "usageDescription": "This lets you add your own audio files to your videos."
-          },
-          {
-            "name": "BluetoothPeripheral",
-            "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "This lets you create videos using the app."
-          },
-          {
-            "name": "Contacts",
-            "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
-          },
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
-          },
-          {
-            "name": "LocationWhenInUse",
-            "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
-          },
-          {
-            "name": "Microphone",
-            "usageDescription": "This lets you include audio with your videos and search using your voice."
-          },
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "This lets you upload media you've already created."
-          },
-          {
-            "name": "NSUserTrackingUsageDescription",
-            "usageDescription": "A message that informs the user why an app is requesting permission to use data for tracking the user or the device."
-          }
-        ]
-      },
+            {
+              "name": "com.apple.security.application-groups"
+            },
+            {
+              "name": "com.apple.developer.associated-domains"
+            },
+            {
+              "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+            },
+            {
+              "name": "com.apple.developer.usernotifications.time-sensitive"
+            },
+            {
+              "name": "get-task-allow"
+            },
+            {
+              "name": "com.apple.developer.device-information.user-assigned-device-name"
+            },
+            {
+              "name": "com.apple.developer.group-session"
+            },
+            {
+              "name": "keychain-access-groups"
+            },
+            {
+              "name": "com.apple.developer.networking.multicast"
+            },
+            {
+              "name": "aps-environment"
+            },
+            {
+              "name": "com.apple.developer.siri"
+            },
+            {
+              "name": "com.apple.developer.networking.wifi-info"
+            }
+          ],
+          "privacy": [
+            {
+              "name": "AppleMusic",
+              "usageDescription": "This lets you add your own audio files to your videos."
+            },
+            {
+              "name": "BluetoothPeripheral",
+              "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+            },
+            {
+              "name": "Camera",
+              "usageDescription": "This lets you create videos using the app."
+            },
+            {
+              "name": "Contacts",
+              "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+            },
+            {
+              "name": "LocalNetwork",
+              "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+            },
+            {
+              "name": "LocationWhenInUse",
+              "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+            },
+            {
+              "name": "Microphone",
+              "usageDescription": "This lets you include audio with your videos and search using your voice."
+            },
+            {
+              "name": "PhotoLibrary",
+              "usageDescription": "This lets you upload media you've already created."
+            },
+            {
+              "name": "NSUserTrackingUsageDescription",
+              "usageDescription": "A message that informs the user why an app is requesting permission to use data for tracking the user or the device."
+            }
+          ]
+        },
       "subtitle": "uYouEnhanced is a tweak for the YouTube app.",
       "tintColor": "e81e8a",
       "version": "19.40.4",
       "versionDate": "2024-10-10",
-      "versionDescription": "• Updated YouTube to v19.40.4\n • uYou is using 3.0.4\n • New Option: Replace YT Download with uYou \n • Updated Copy Settings button (most of the keys were changed, might affect backups.) \n • Updated App Version Spoofer (23+ additional YT versions!) \n • Updated Alderis (iOS 18+ Fix) \n • Updated Submodules",
+      "versionDescription": "• Updated YouTube to v19.40.4\n • uYou is using 3.0.4\n • New Option: Replace YT Download with uYou \n • Updated Copy Settings button (most of the keys were changed, might affect backups.) \n • Updated App Version Spoofer (23+ additonal YT versions!) \n • Updated Alderis (iOS 18+ Fix) \n • Updated Submodules"
       "versions": [
         {
           "version": "19.20.2",
-          "buildVersion": "1",
           "date": "2024-05-28",
           "localizedDescription": "• Updated YouTube to v19.20.2\n • uYou is using 3.0.4\n • Updated Submodules",
           "downloadURL": "https://tinyurl.com/3j59bet5",
           "size": 125035106,
           "minOSVersion": "14.0",
-          "maxOSVersion": "16.3"
         }
-      ]
     }
   ],
   "identifier": "com.uyouplusextra.source",
@@ -102,5 +123,4 @@
   "website": "https://github.com/arichornlover/uYouEnhanced",
   "news": [],
   "userInfo": {}
-}
 }
