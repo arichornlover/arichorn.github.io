@@ -1,4 +1,11 @@
 {
+  "name": "uYouEnhanced Source",
+  "subtitle": "uYouEnhanced is a tweak for the YouTube app.",
+  "description": "uYou is the best tweak for the YouTube app. uYouEnhanced is a modified version of qnblackcat's uYouPlus & MiRO92's uYou with even more features. Additional features include skipping sponsorships in videos, more PiP options, unlocking higher resolutions, disabling overlays, removing upsell alerts, dimming the UI, enabling the miniplayer, preventing notch issues, configuring A/B settings, and adding a timestamp button.",
+  "iconURL": "https://raw.githubusercontent.com/arichornlover/uYouEnhanced/1314354bff6ef07aca60d7b9a77bd91a5f985ab4/Localizations/uYouPlus.bundle/AppIcons/AppIcon4.png",
+  "headerURL": "https://raw.githubusercontent.com/arichornlover/uYouEnhanced/1314354bff6ef07aca60d7b9a77bd91a5f985ab4/Localizations/uYouPlus.bundle/AppIcons/AppIcon4.png",
+  "website": "https://github.com/arichornlover/uYouEnhanced",
+  "tintColor": "#e81e8a",
   "apps": [
     {
       "beta": false,
@@ -10,9 +17,7 @@
           "web": "https://github.com/arichornlover/uYouEnhanced"
       },
       "downloadURL": "https://tinyurl.com/5adbp43m",
-      "iconURL": "https://raw.githubusercontent.com/arichornlover/uYouEnhanced/1314354bff6ef07aca60d7b9a77bd91a5f985ab4/Localizations/uYouPlus.bundle/AppIcons/AppIcon4.png",
       "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of qnblackcat's uYouPlus & MiRO92's uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • Adds a new button in the Video Player that allows you to copy a url with the ?t=timestamp (YouTimeStamp)\n • And more\n \n More information: \n https://github.com/arichornlover/uYouEnhanced/ \n \n Requires iOS/iPadOS 15.0 or later.\n \n Contributors: qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, Foxster, CokePokes, arichornlover, bhackel and many others. \n\n Credits: MiRO92, HASHBANG, galactic, Lyvendia, ichitaso, Ahmed Bafkir, Tommy Teo, Dayanch96, theos, dodieboy, balackburn and many others.",
-      "name": "uYouEnhanced",
       "screenshotURLs": [
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
@@ -38,56 +43,51 @@
           { "name": "com.apple.developer.siri" },
           { "name": "com.apple.developer.networking.wifi-info" }
         ],
-          "privacy": [
-            {
-              "name": "AppleMusic",
-              "usageDescription": "This lets you add your own audio files to your videos."
-            },
-            {
-              "name": "BluetoothPeripheral",
-              "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
-            },
-            {
-              "name": "Camera",
-              "usageDescription": "This lets you create videos using the app."
-            },
-            {
-              "name": "Contacts",
-              "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
-            },
-            {
-              "name": "LocalNetwork",
-              "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
-            },
-            {
-              "name": "LocationWhenInUse",
-              "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
-            },
-            {
-              "name": "Microphone",
-              "usageDescription": "This lets you include audio with your videos and search using your voice."
-            },
-            {
-              "name": "PhotoLibrary",
-              "usageDescription": "This lets you upload media you've already created."
-            },
-            {
-              "name": "NSUserTrackingUsageDescription",
-              "usageDescription": "A message that informs the user why an app is requesting permission to use data for tracking the user or the device."
-            }
-          ]
-        },
-      "subtitle": "uYouEnhanced is a tweak for the YouTube app.",
-      "tintColor": "e81e8a",
+        "privacy": [
+          {
+            "name": "AppleMusic",
+            "usageDescription": "This lets you add your own audio files to your videos."
+          },
+          {
+            "name": "BluetoothPeripheral",
+            "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "This lets you create videos using the app."
+          },
+          {
+            "name": "Contacts",
+            "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+          },
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "This lets you include audio with your videos and search using your voice."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "This lets you upload media you've already created."
+          },
+          {
+            "name": "NSUserTrackingUsageDescription",
+            "usageDescription": "A message that informs the user why an app is requesting permission to use data for tracking the user or the device."
+          }
+        ]
+      },
       "version": "19.49.7",
       "versionDate": "2025-1-14",
       "versionDescription": "• Updated YouTube to v19.49.7\n • uYou is still using 3.0.4\n • Updated Options: Notifications Tab, Notifications Tab Customization and YTAppVersionSpoofer \n • Reminder: the App Version Spoofer now deprecates older versions like 17.33.2-18.34.5 due to app issues. \n • Updated Submodules"
     }
   ],
-  "identifier": "com.uyouplusextra.source",
-  "name": "uYouEnhanced Source",
   "sourceURL": "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json",
-  "website": "https://github.com/arichornlover/uYouEnhanced",
   "news": [],
   "userInfo": {}
 }
