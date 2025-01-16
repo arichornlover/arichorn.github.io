@@ -1,17 +1,28 @@
 {
+  "name": "uYouEnhanced Source - Legacy",
+  "identifier": "com.uyouplusextra.source",
+  "website": "https://github.com/arichornlover/uYouEnhanced",
+  "subtitle": "The best tweak for the YouTube app just got even better",
+  "description": "This is the official Altstore source for uYouEnhanced Legacy.\n\nuYouEnhanced is a modified version of uYouPlus & uYou with even more features. It offers a superior YouTube experience with features like skipping sponsorships, more PiP options, unlocking higher resolutions, and much more.\n\nFor full details on what's included, check the GitHub repository:\n\nhttps://github.com/arichornlover/uYouEnhanced",
+  "tintColor": "e81e8a",
+  "iconURL": "https://raw.githubusercontent.com/arichornloveralt/arichornloveralt.github.io/main/assets/uYouLegacy.png",
+  "headerURL": "https://raw.githubusercontent.com/arichornloveralt/arichornloveralt.github.io/main/assets/uYouLegacy.png",
   "apps": [
     {
       "beta": false,
+      "name": "uYouEnhanced",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Various Developers",
-      "META": { "repoName": "uYouEnhanced Source - Legacy" },
-      "contact": {
-          "web": "https://github.com/arichornlover/uYouEnhanced"
-      },
+      "subtitle": "uYouPlus with even more features!",
+      "version": "19.20.2",
+      "versionDate": "2024-05-28",
+      "versionDescription": "Current YouTube IPA: \"19.20.2\"\nCurrent uYouEnhanced Version: \"3.0.3\"\n\nRELEASE 19.20.2 - 3.0.3: (2024-05-28)\n\n• Updated YouTube to 19.20.2\n• uYouEnhanced Localization Support\n• New Options: Disable Animated YouTube Logo, Shorts Quality Picker, New Settings UI & Auto-Hide Home Bar\n• Limited Options to iPhone-only: Enable Portrait Fullscreen & Hide Fullscreen Action Buttons\n• Added a new button (uYouEnhanced Settings): Copy Settings\n• New Tweak: YouTimeStamp\n• Fixed AdBlock not working in Videos for AdBlock Workaround (Lite)\n• Updated Submodules",
       "downloadURL": "https://tinyurl.com/3j59bet5",
+      "localizedDescription": "uYou is the best tweak for the YouTube app. uYouEnhanced is a modified version of uYouPlus & uYou with even more features. Additional features include skipping sponsorships in videos, more PiP options, unlocking higher resolutions, disabling overlays, removing upsell alerts, dimming the UI, enabling the miniplayer, preventing notch issues, configuring A/B settings, and more.",
       "iconURL": "https://raw.githubusercontent.com/arichornloveralt/arichornloveralt.github.io/main/assets/uYouLegacy.png",
-      "localizedDescription": "uYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n Additional features:\n • Skip sponsorships in videos (iSponsorBlock)\n • Even more PiP options (YouPiP)\n • Unlock 1440p and 2160p resolutions (YTUHD)\n • Disable overlay at the end of videos (YTNoHoverCards)\n • Remove YouTube Premium upsell alerts (NoYTPremium)\n • Enable to Dim the YouTube UI (LowContrastMode)\n • Enable the miniplayer for all videos (YTMiniplayerEnabler)\n • Prevent the notch/Dynamic Island from cutting into 2:1 videos (DontEatMyContent)\n • Configure A/B settings in the YouTube app (YTABConfig)\n • And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.\n \n Contributors: MiRO92, qnblackcat, PoomSmart, level3tjg, BandarHelal, galactic, julioverne, HASHBANG, Lyvendia, Foxster, ichitaso, Ahmed Bafkir, CokePokes, Tommy Teo, theos, and many others.",
-      "name": "uYouEnhanced",
+      "tintColor": "e81e8a",
+      "category": "photo-video",
+      "size": 126097628,
       "screenshotURLs": [
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
@@ -20,69 +31,45 @@
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
         "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
       ],
-      "size": 126097628,
-      "minOSVersion": "14.0",
       "appPermissions": {
         "entitlements": [
-          { "name": "com.apple.security.application-groups" },
-          { "name": "com.apple.developer.associated-domains" },
-          { "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection" },
-          { "name": "com.apple.developer.usernotifications.time-sensitive" },
-          { "name": "get-task-allow" },
-          { "name": "com.apple.developer.device-information.user-assigned-device-name" },
-          { "name": "com.apple.developer.group-session" },
-          { "name": "keychain-access-groups" },
-          { "name": "com.apple.developer.networking.multicast" },
-          { "name": "aps-environment" },
-          { "name": "com.apple.developer.siri" },
-          { "name": "com.apple.developer.networking.wifi-info" }
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.developer.networking.wifi-info"
         ],
-          "privacy": [
-            {
-              "name": "AppleMusic",
-              "usageDescription": "This lets you add your own audio files to your videos."
-            },
-            {
-              "name": "BluetoothPeripheral",
-              "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
-            },
-            {
-              "name": "Camera",
-              "usageDescription": "This lets you create videos using the app."
-            },
-            {
-              "name": "Contacts",
-              "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
-            },
-            {
-              "name": "LocalNetwork",
-              "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
-            },
-            {
-              "name": "LocationWhenInUse",
-              "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
-            },
-            {
-              "name": "Microphone",
-              "usageDescription": "This lets you include audio with your videos and search using your voice."
-            },
-            {
-              "name": "PhotoLibrary",
-              "usageDescription": "This lets you upload media you've already created."
-            }
-          ]
-        },
-      "subtitle": "The best tweak for the YouTube app just got even better",
-      "tintColor": "e81e8a",
-      "version": "19.20.2",
-      "versionDate": "2024-05-28",
-      "versionDescription": "• Updated YouTube to 19.20.2\n • uYou is still using 3.0.3\n • uYouEnhanced Localization Support\n • New Options: Disable Animated YouTube Logo, Shorts Quality Picker, New Settings UI & Auto-Hide Home Bar - arichornlover & bhackel\n • Limited Options to iPhone-only: Enable Portrait Fullscreen & Hide Fullscreen Action Buttons - arichornlover & bhackel\n • Added a new button (uYouEnhanced Settings): Copy Settings\n • New Tweak: YouTimeStamp\n • Fixed AdBlock not working in Videos for AdBlock Workaround (Lite) - PoomSmart/YouTube-X\n • Updated Submodules"
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
+          "NSUserTrackingUsageDescription": "A message that informs the user why an app is requesting permission to use data for tracking the user or the device."
+        }
+      },
+      "versions": [
+        {
+          "version": "19.20.2",
+          "date": "2024-05-28",
+          "localizedDescription": "Current YouTube IPA: \"19.20.2\"\nCurrent uYouEnhanced Version: \"3.0.3\"\n\nRELEASE 19.20.2 - 3.0.3: (2024-05-28)\n\n• Updated YouTube to 19.20.2\n• uYouEnhanced Localization Support\n• New Options: Disable Animated YouTube Logo, Shorts Quality Picker, New Settings UI & Auto-Hide Home Bar\n• Limited Options to iPhone-only: Enable Portrait Fullscreen & Hide Fullscreen Action Buttons\n• Added a new button (uYouEnhanced Settings): Copy Settings\n• New Tweak: YouTimeStamp\n• Fixed AdBlock not working in Videos for AdBlock Workaround (Lite)\n• Updated Submodules",
+          "downloadURL": "https://tinyurl.com/3j59bet5",
+          "size": 126097628
+        }
+      ]
     }
   ],
-  "identifier": "com.uyouplusextra.source",
-  "name": "uYouEnhanced Source - Legacy",
   "sourceURL": "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps-legacy.json",
-  "website": "https://github.com/arichornlover/uYouEnhanced",
   "news": [],
   "userInfo": {}
 }
